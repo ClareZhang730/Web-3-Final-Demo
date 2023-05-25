@@ -129,6 +129,19 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/deploy\/img\/gallery\/logo.png" : {
+      "ft" : 32768,
+      "iS" : 5070,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/gallery\/logo.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/deploy\/img\/header\/logo.svg" : {
       "ft" : 2097152,
       "miP" : 0,
