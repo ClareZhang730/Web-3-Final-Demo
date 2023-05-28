@@ -194,6 +194,45 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/deploy\/img\/gallery\/png-2.png" : {
+      "ft" : 32768,
+      "iS" : 138817,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/gallery\/png-2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/deploy\/img\/gallery\/review-1.png" : {
+      "ft" : 32768,
+      "iS" : 109857,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/gallery\/review-1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/deploy\/img\/gallery\/review-3.png" : {
+      "ft" : 32768,
+      "iS" : 108419,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/gallery\/review-3.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/deploy\/img\/header\/logo.svg" : {
       "ft" : 2097152,
       "miP" : 0,
