@@ -308,6 +308,32 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/icons\/3-stars.png" : {
+      "ft" : 32768,
+      "iS" : 12192,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/icons\/3-stars.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/deploy\/img\/icons\/4-stars.png" : {
+      "ft" : 32768,
+      "iS" : 10285,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/icons\/4-stars.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/deploy\/img\/icons\/5-stars.png" : {
       "ft" : 32768,
       "iS" : 8428,
