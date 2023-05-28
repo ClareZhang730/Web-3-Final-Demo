@@ -194,6 +194,32 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/deploy\/img\/gallery\/mint-toaster.png" : {
+      "ft" : 32768,
+      "iS" : 68909,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/gallery\/mint-toaster.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/deploy\/img\/gallery\/pink-toaster.png" : {
+      "ft" : 32768,
+      "iS" : 62347,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/gallery\/pink-toaster.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/deploy\/img\/gallery\/png-2.png" : {
       "ft" : 32768,
       "iS" : 138817,
@@ -238,6 +264,19 @@
       "iS" : 108419,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/gallery\/review-3.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/deploy\/img\/gallery\/white-toaster.png" : {
+      "ft" : 32768,
+      "iS" : 41328,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/gallery\/white-toaster.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
