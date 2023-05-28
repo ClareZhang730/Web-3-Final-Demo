@@ -51,6 +51,58 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/deploy\/img\/gallery\/dolce-1.png" : {
+      "ft" : 32768,
+      "iS" : 640286,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/gallery\/dolce-1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/deploy\/img\/gallery\/dolce-2.png" : {
+      "ft" : 32768,
+      "iS" : 717574,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/gallery\/dolce-2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/deploy\/img\/gallery\/dolce-3.png" : {
+      "ft" : 32768,
+      "iS" : 477268,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/gallery\/dolce-3.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/deploy\/img\/gallery\/dolce-4.png" : {
+      "ft" : 32768,
+      "iS" : 880634,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/gallery\/dolce-4.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/deploy\/img\/gallery\/gallery-1.png" : {
       "ft" : 32768,
       "iS" : 311167,
