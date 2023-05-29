@@ -412,6 +412,19 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/deploy\/img\/icons\/facebook.png" : {
+      "ft" : 32768,
+      "iS" : 2137,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/icons\/facebook.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/deploy\/img\/icons\/frost.png" : {
       "ft" : 32768,
       "iS" : 4129,
@@ -451,11 +464,50 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/deploy\/img\/icons\/instagram.png" : {
+      "ft" : 32768,
+      "iS" : 5313,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/icons\/instagram.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/deploy\/img\/icons\/profile.png" : {
       "ft" : 32768,
       "iS" : 5791,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/icons\/profile.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/deploy\/img\/icons\/tiktok.png" : {
+      "ft" : 32768,
+      "iS" : 3212,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/icons\/tiktok.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/deploy\/img\/icons\/youtube.png" : {
+      "ft" : 32768,
+      "iS" : 2619,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/icons\/youtube.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
