@@ -295,19 +295,6 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/deploy\/img\/hero-2\/hero.jpg" : {
-      "ft" : 16384,
-      "iS" : 247748,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/hero-2\/hero.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/deploy\/img\/hero\/hero.png" : {
       "ft" : 32768,
       "iS" : 1948343,
@@ -456,6 +443,19 @@
       "iS" : 5791,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/icons\/profile.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/deploy\/img\/logo\/smeg.png" : {
+      "ft" : 32768,
+      "iS" : 15252,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/logo\/smeg.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
