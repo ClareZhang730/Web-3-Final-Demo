@@ -285,15 +285,18 @@
       "q" : 90,
       "rq" : 75
     },
-    "\/deploy\/img\/header\/logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/deploy\/img\/header\/logo.svg",
+    "\/deploy\/img\/header\/smeg.png" : {
+      "ft" : 32768,
+      "iS" : 15252,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/header\/smeg.png",
       "oF" : 0,
+      "oIPL" : 0,
       "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
     },
     "\/deploy\/img\/hero\/hero.png" : {
       "ft" : 32768,
@@ -516,19 +519,6 @@
       "q" : 90,
       "rq" : 75
     },
-    "\/deploy\/img\/logo\/smeg.png" : {
-      "ft" : 32768,
-      "iS" : 15252,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/logo\/smeg.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
     "\/deploy\/img\/skills\/robot.jpg" : {
       "ft" : 16384,
       "iS" : 118148,
@@ -605,7 +595,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/content\/skills.html",
       "oF" : 0
     },
