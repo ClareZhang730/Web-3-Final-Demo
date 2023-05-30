@@ -257,7 +257,7 @@
     },
     "\/deploy\/img\/header\/smeg.png" : {
       "ft" : 32768,
-      "iS" : 15252,
+      "iS" : 11651,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/header\/smeg.png",
       "oF" : 0,
@@ -279,32 +279,6 @@
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
-      "rq" : 75
-    },
-    "\/deploy\/img\/history\/hero.jpg" : {
-      "ft" : 16384,
-      "iS" : 15971,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/history\/hero.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/history\/history.jpg" : {
-      "ft" : 16384,
-      "iS" : 18964,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/history\/history.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
       "rq" : 75
     },
     "\/deploy\/img\/icons\/3-stars.png" : {
