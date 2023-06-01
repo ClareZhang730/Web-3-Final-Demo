@@ -255,6 +255,19 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/deploy\/img\/header\/burger-container.png" : {
+      "ft" : 32768,
+      "iS" : 168,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/header\/burger-container.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/deploy\/img\/header\/smeg.png" : {
       "ft" : 32768,
       "iS" : 11651,
@@ -501,6 +514,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/design\/final-demo.fig",
+      "oF" : 0
+    },
+    "\/dev\/check-out.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/check-out.html",
       "oF" : 0
     },
     "\/dev\/content\/gallery.kit" : {
@@ -833,6 +854,14 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
+    },
+    "\/dev\/thank-you.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/thank-you.html",
+      "oF" : 0
     }
   },
   "hooks" : [
