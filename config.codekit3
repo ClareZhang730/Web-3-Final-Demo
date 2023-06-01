@@ -516,13 +516,13 @@
       "oAP" : "\/design\/final-demo.fig",
       "oF" : 0
     },
-    "\/dev\/check-out.kit" : {
+    "\/dev\/checkout.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/check-out.html",
-      "oF" : 0
+      "oAP" : "\/deploy\/checkout.html",
+      "oF" : 2
     },
     "\/dev\/content\/gallery.kit" : {
       "cB" : 0,
@@ -854,14 +854,6 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
-    },
-    "\/dev\/thank-you.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/thank-you.html",
-      "oF" : 0
     }
   },
   "hooks" : [
