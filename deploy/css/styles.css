@@ -529,23 +529,6 @@ header nav {
     Footer
 ============= */
 /* =============
-    Hero
-============= */
-#hero {
-  background-image: url("../img/hero/hero.png");
-  background-size: cover;
-  background-position: center;
-  width: 390px;
-  height: 254px;
-}
-@media (min-width: 1440px) {
-  #hero {
-    width: 1440px;
-    height: 999px;
-  }
-}
-
-/* =============
     History
 ============= */
 #history {
@@ -659,6 +642,23 @@ header nav {
 }
 #history > div #history-bottom #history-sub-content p span {
   font-weight: 700;
+}
+
+/* =============
+    Hero
+============= */
+#hero {
+  background-image: url("../img/hero/hero.png");
+  background-size: cover;
+  background-position: center;
+  width: 390px;
+  height: 254px;
+}
+@media (min-width: 1440px) {
+  #hero {
+    width: 1440px;
+    height: 999px;
+  }
 }
 
 /* =============
