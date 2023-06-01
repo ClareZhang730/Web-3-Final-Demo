@@ -538,6 +538,11 @@ header nav {
   width: 390px;
   height: 254px;
 }
+@media (min-width: 1440px) {
+  #hero {
+    height: 999px;
+  }
+}
 
 /* =============
     History
