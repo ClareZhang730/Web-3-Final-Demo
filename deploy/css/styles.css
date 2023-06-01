@@ -532,20 +532,7 @@ header nav {
     Hero
 ============= */
 #hero {
-  background-image: url("../img/hero/hero.jpg");
-  background-size: cover;
-  background-position: center;
-  height: 65vh;
-}
-@media (min-width: 1024px) {
-  #hero {
-    height: 70vh;
-  }
-}
-@media (min-width: 1440px) {
-  #hero {
-    height: 75vh;
-  }
+  background-image: url("../img/hero/hero.png");
 }
 
 /* =============
