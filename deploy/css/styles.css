@@ -540,6 +540,7 @@ header nav {
 }
 @media (min-width: 1440px) {
   #hero {
+    width: 1440px;
     height: 999px;
   }
 }

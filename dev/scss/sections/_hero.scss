@@ -10,6 +10,7 @@
     height: 254px;
 
     @include xxl{
+        width: 1440px;
         height: 999px;
     }
 }
