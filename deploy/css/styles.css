@@ -536,12 +536,6 @@ header nav {
   background-position: center;
   height: 35vh;
 }
-@media (min-width: 1440px) {
-  #hero {
-    width: 1440px;
-    height: 999px;
-  }
-}
 
 /* =============
     Skills
