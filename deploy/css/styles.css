@@ -368,83 +368,8 @@ textarea {
 /* =============
     Navigation
 ============= */
-html {
-  scroll-behavior: smooth;
-}
-
 a {
   text-decoration: none;
-}
-
-.show-menu {
-  display: block !important;
-}
-
-nav {
-  display: none;
-  background-color: var(--charcoal);
-  color: white;
-}
-@media (min-width: 768px) {
-  nav {
-    background-color: white;
-    color: var(--charcoal);
-    display: flex !important;
-    align-items: center;
-  }
-}
-@media (min-width: 768px) {
-  nav ul {
-    display: flex;
-    align-items: center;
-  }
-}
-@media (min-width: 768px) {
-  nav ul li {
-    margin-left: 24px;
-  }
-}
-nav ul li a:link, nav ul li a:visited {
-  color: white;
-  padding: 16px;
-  padding-left: 0;
-  display: inline-block;
-  transition: 0.25s;
-}
-@media (min-width: 768px) {
-  nav ul li a:link, nav ul li a:visited {
-    color: var(--charcoal);
-    padding: 0;
-  }
-}
-nav ul li a:link:hover, nav ul li a:link:active, nav ul li a:visited:hover, nav ul li a:visited:active {
-  color: var(--yellow);
-}
-nav ul #logo {
-  height: 60px;
-  width: 60px;
-  border-radius: 100%;
-  border: 3px solid var(--yellow);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: white;
-  overflow: hidden;
-}
-@media (min-width: 768px) {
-  nav ul #logo {
-    border: none;
-    border-radius: 0;
-    justify-content: flex-start;
-  }
-}
-nav ul #logo a {
-  padding: 0;
-  text-align: center;
-  width: 100%;
-}
-nav ul #logo a img {
-  width: 90%;
 }
 
 /* =============
