@@ -12,8 +12,13 @@
 
         h1{
             font-family: 'Roboto', sans-serif;
-            color: var(--white);
+            color: var(--black);
             font-size: rem-calc(40);
+            text-align: center;
+
+            span{ 
+                font-size: rem-calc(40);
+            }
         }
     }
 }
