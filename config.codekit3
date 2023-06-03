@@ -757,18 +757,6 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/_efficient.css" : {
-      "aP" : 1,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_efficient-min.css",
-      "oF" : 0,
-      "pg" : 0
-    },
     "\/dev\/scss\/sections\/_efficient.scss" : {
       "aP" : 0,
       "bl" : 0,
