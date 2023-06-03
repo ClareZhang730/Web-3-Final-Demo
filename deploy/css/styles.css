@@ -329,25 +329,21 @@ template {
     Base
 ============= */
 ul {
-  padding: 0;
   margin: 0;
+  padding: 0;
 }
 ul li {
   list-style: none;
 }
 
-.top-content-spacing {
-  padding-top: 60px;
-}
-@media (min-width: 1200px) {
-  .top-content-spacing {
-    padding-top: 100px;
-  }
-}
-
 /* =============
     Typography
 ============= */
+h1, h2, h3, h4, p {
+  margin: 0;
+  padding: 0;
+}
+
 /* =============
     Buttons
 ============= */
