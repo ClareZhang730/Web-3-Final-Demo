@@ -3,8 +3,17 @@
 ============= */
 
 #efficient{
-    display: grid;
-    grid-template-columns: 16px auto 16px;
-    grid-template-areas: ". efficient .";
-    
+        display: grid;
+        grid-template-columns: 16px auto 16px;
+        grid-template-areas: ". efficient .";
+
+    >div{
+        grid-area: efficient; 
+
+        h1{
+            font-family: 'Roboto', sans-serif;
+            color: var(--white);
+            font-size: rem-calc(40);
+        }
+    }
 }
