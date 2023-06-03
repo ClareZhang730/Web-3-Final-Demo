@@ -16,7 +16,7 @@
             font-size: rem-calc(40);
             text-align: center;
             
-            @include md{
+            @include lg{
                 font-size: rem-calc(55);
 
             }
@@ -24,7 +24,7 @@
             span{ 
                 font-size: rem-calc(40);
 
-                @include md{
+                @include lg{
                     display: block;
                     font-size: rem-calc(55);
     

@@ -535,7 +535,7 @@ header nav {
   font-size: 2.5rem;
   text-align: center;
 }
-@media (min-width: 768px) {
+@media (min-width: 1024px) {
   #efficient > div h1 {
     font-size: 3.4375rem;
   }
@@ -543,7 +543,7 @@ header nav {
 #efficient > div h1 span {
   font-size: 2.5rem;
 }
-@media (min-width: 768px) {
+@media (min-width: 1024px) {
   #efficient > div h1 span {
     display: block;
     font-size: 3.4375rem;
