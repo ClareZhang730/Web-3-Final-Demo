@@ -580,8 +580,10 @@ a {
   line-height: 23px;
   text-align: justify;
 }
-#gallery > div #gallery-top h1 .container {
+#gallery > div #gallery-top h1 #container {
   display: grid;
   place-items: center;
-  height: 100vh; /* Adjust the height as needed */
+  height: 100vh;
+  background: #D7A0B9;
+  border-radius: 30px;
 }
