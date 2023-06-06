@@ -17,11 +17,7 @@
                 font-size: rem-calc(40);
                 text-align: center;
                 
-                @include md{
-                    font-size: rem-calc(40);
-    
-                }
-
+              
                 @include xl{
                     display: block;
                     font-size: rem-calc(55);
@@ -30,34 +26,17 @@
                 span{ 
                     font-size: rem-calc(40);
     
-                    @include md{
-                        display: block;
-                        font-size: rem-calc(40);
-    
                     @include xl{
                         display: block;
                         font-size: rem-calc(55);
                     }
                 
-                  }
-       
         #efficient-bottom{
             article{
                 p{
                     font-weight: 700;
                     font-size: rem-calc(20);
                     line-height: 23px;
-
-                    aside{
-                        div{
-                            background-image: url("..img/hero/hero.png");
-                            background-size: cover;
-                            background-position: center;
-                            width: 100%;
-                            padding-bottom: 100%;
-                            border-radius: 100%;
-                        }
-                    }
 
                 }
             }

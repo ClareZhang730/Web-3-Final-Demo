@@ -469,11 +469,6 @@ header nav {
   font-size: 2.5rem;
   text-align: center;
 }
-@media (min-width: 768px) {
-  #efficient > div #efficient-top h1 {
-    font-size: 2.5rem;
-  }
-}
 @media (min-width: 1200px) {
   #efficient > div #efficient-top h1 {
     display: block;
@@ -483,13 +478,7 @@ header nav {
 #efficient > div #efficient-top h1 span {
   font-size: 2.5rem;
 }
-@media (min-width: 768px) {
-  #efficient > div #efficient-top h1 span {
-    display: block;
-    font-size: 2.5rem;
-  }
-}
-@media (min-width: 768px) and (min-width: 1200px) {
+@media (min-width: 1200px) {
   #efficient > div #efficient-top h1 span {
     display: block;
     font-size: 3.4375rem;
@@ -499,14 +488,6 @@ header nav {
   font-weight: 700;
   font-size: 1.25rem;
   line-height: 23px;
-}
-#efficient > div #efficient-top h1 span #efficient-bottom article p aside div {
-  background-image: url("..img/hero/hero.png");
-  background-size: cover;
-  background-position: center;
-  width: 100%;
-  padding-bottom: 100%;
-  border-radius: 100%;
 }
 
 /* =============
