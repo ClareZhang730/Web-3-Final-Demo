@@ -16,6 +16,11 @@
                    color: var(--black);
                    font-size: rem-calc(40);
                    text-align: center;
+
+                   @include xl{
+                        display:block;
+                        font-size:rem-calc(55);
+                   }
                 }
             }
         }

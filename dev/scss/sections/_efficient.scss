@@ -22,7 +22,7 @@
                     font-size: rem-calc(55);
                 }
                 span{
-                    font-size:rem-calc(55);
+                    font-size:rem-calc(40);
 
                     @include xl{
                         display:block;
@@ -34,7 +34,8 @@
                     p{
                         font-weight: 700;
                         font-size: rem-calc(15);
-                        line-height: 23px; 
+                        line-height: 23px;
+                        text-align: justify;
                     }
                 }
             }    

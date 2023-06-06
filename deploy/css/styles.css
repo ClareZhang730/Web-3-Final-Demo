@@ -388,67 +388,6 @@ a {
 /* =============
     Header
 ============= */
-header {
-  display: grid;
-  grid-template-columns: 20% auto;
-  grid-template-areas: "burger survival" "nav nav";
-  position: fixed;
-  width: 100%;
-  background-color: white;
-}
-@media (min-width: 768px) {
-  header {
-    grid-template-columns: 70% auto;
-    grid-template-areas: "nav survival";
-    padding: 24px;
-  }
-}
-header #burger-container {
-  grid-area: burger;
-  padding: 16px;
-  display: flex;
-  align-items: center;
-}
-header #burger-container button {
-  border: none;
-  background-color: transparent;
-  color: black;
-}
-header #burger-container button i {
-  font-size: 1.875rem;
-}
-@media (min-width: 768px) {
-  header #burger-container {
-    display: none;
-  }
-}
-header #survival-container {
-  grid-area: survival;
-  padding: 16px;
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
-}
-header #survival-container button {
-  border: none;
-  background-color: var(--yellow);
-  font-weight: 700;
-  font-size: 1.125rem;
-  border-radius: 23px;
-  color: black;
-  padding: 10px 15px;
-}
-header nav {
-  grid-area: nav;
-  padding: 16px;
-}
-@media (min-width: 768px) {
-  header nav {
-    padding-top: 0;
-    padding-bottom: 0;
-  }
-}
-
 /* =============
     Footer
 ============= */
@@ -476,7 +415,7 @@ header nav {
   }
 }
 #efficient > div #efficient-top h1 span {
-  font-size: 3.4375rem;
+  font-size: 2.5rem;
 }
 @media (min-width: 1200px) {
   #efficient > div #efficient-top h1 span {
@@ -488,6 +427,7 @@ header nav {
   font-weight: 700;
   font-size: 0.9375rem;
   line-height: 23px;
+  text-align: justify;
 }
 
 /* =============
@@ -611,30 +551,6 @@ header nav {
 /* =============
     Hero 2
 ============= */
-#hero-2 {
-  background-image: url("../img/hero-2/hero.jpg");
-  background-size: cover;
-  background-position: 70% bottom;
-  height: 65vh;
-}
-@media (min-width: 768px) {
-  #hero-2 {
-    height: 70vh;
-    background-position: 90% bottom;
-  }
-}
-@media (min-width: 1024px) {
-  #hero-2 {
-    height: 80vh;
-    background-position: center;
-  }
-}
-@media (min-width: 1440px) {
-  #hero-2 {
-    height: 100vh;
-  }
-}
-
 /* =============
     Gallery
 ============= */
@@ -651,4 +567,10 @@ header nav {
   color: var(--black);
   font-size: 2.5rem;
   text-align: center;
+}
+@media (min-width: 1200px) {
+  #gallery > div #gallery-top h1 {
+    display: block;
+    font-size: 3.4375rem;
+  }
 }
