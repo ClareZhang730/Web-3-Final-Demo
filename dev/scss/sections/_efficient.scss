@@ -48,6 +48,14 @@
                     font-size: rem-calc(20);
                     line-height: 23px;
 
+                    aside{
+                        div{
+                            background-image: url("..img/hero/hero.png");
+                            background-size: cover;
+                            background-position: center;
+                        }
+                    }
+
                 }
             }
         }

@@ -500,6 +500,11 @@ header nav {
   font-size: 1.25rem;
   line-height: 23px;
 }
+#efficient > div #efficient-top h1 span #efficient-bottom article p aside div {
+  background-image: url("..img/hero/hero.png");
+  background-size: cover;
+  background-position: center;
+}
 
 /* =============
     Hero
