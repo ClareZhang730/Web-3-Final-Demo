@@ -548,6 +548,14 @@
       "oAP" : "\/dev\/content\/hero.html",
       "oF" : 0
     },
+    "\/dev\/content\/product.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/product.html",
+      "oF" : 0
+    },
     "\/dev\/content\/skills.kit" : {
       "cB" : 0,
       "ft" : 2048,
