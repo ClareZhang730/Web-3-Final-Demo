@@ -663,7 +663,8 @@ header nav {
   font-size: 0.9375rem;
   line-height: 18px;
 }
-#gallery > div #gallery-picture img {
-  max-width: 50%;
-  max-height: 50%;
+#gallery > div #gallery-picture {
+  background: url(img/gallery/gallery-1.png);
+  background-position: left;
+  border-radius: 30px;
 }
