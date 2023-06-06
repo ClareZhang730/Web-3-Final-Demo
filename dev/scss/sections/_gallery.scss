@@ -44,4 +44,29 @@
             }
         }
 }
+
+#gallery-picture{
+    // display : grid;
+    // grid-template-columns: 50% auto;
+    // grid-template-areas: ;
+    padding-top : 45px;
+    >div{
+        ul{
+            display : flex;
+            flex-direction : column;
+            // ALEX| not exactly right but you could make a rightsection, leftsection,
+            // and the bottom photo centered,
+            //Make the photo sections different ids (#) with different alignment
+
+            // and put negative top margins
+            align-items : flex-end;
+            li{
+                img{
+                    margin-top : -15px;
+                    width : 50%;
+                }
+            }
+        }
+    }
+}
     

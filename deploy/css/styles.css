@@ -587,3 +587,16 @@ a {
   background: #D7A0B9;
   border-radius: 30px;
 }
+
+#gallery-picture {
+  padding-top: 45px;
+}
+#gallery-picture > div ul {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+#gallery-picture > div ul li img {
+  margin-top: -15px;
+  width: 50%;
+}
