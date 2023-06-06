@@ -336,6 +336,15 @@ ul li {
   list-style: none;
 }
 
+.top-content-spacing {
+  padding-top: 60px;
+}
+@media (min-width: 1200px) {
+  .top-content-spacing {
+    padding-top: 100px;
+  }
+}
+
 /* =============
     Typography
 ============= */

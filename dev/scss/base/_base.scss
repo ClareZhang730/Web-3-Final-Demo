@@ -10,3 +10,11 @@ ul{
         list-style: none;
     }
 }
+
+.top-content-spacing{
+        padding-top: 60px;
+
+        @include xl{
+            padding-top: 100px;
+        }
+}
