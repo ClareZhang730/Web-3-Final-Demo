@@ -21,6 +21,17 @@
                         display:block;
                         font-size:rem-calc(55);
                    }
+
+            #gallery-bottom{
+                article{
+                    p{
+                        font-weight: 700;
+                        font-size: rem-calc(15);
+                        line-height: 23px;
+                        text-align: justify;  
+                    }
+                }
+            }
                 }
             }
         }

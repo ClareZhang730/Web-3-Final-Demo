@@ -574,3 +574,9 @@ a {
     font-size: 3.4375rem;
   }
 }
+#gallery > div #gallery-top h1 #gallery-bottom article p {
+  font-weight: 700;
+  font-size: 0.9375rem;
+  line-height: 23px;
+  text-align: justify;
+}
