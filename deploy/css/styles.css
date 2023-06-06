@@ -580,6 +580,8 @@ a {
   line-height: 23px;
   text-align: justify;
 }
-#gallery > div #gallery-top h1 #button {
-  text-align: center;
+#gallery > div #gallery-top h1 .container {
+  display: grid;
+  place-items: center;
+  height: 100vh; /* Adjust the height as needed */
 }
