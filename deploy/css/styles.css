@@ -652,20 +652,3 @@ header nav {
   font-size: 2.5rem;
   text-align: center;
 }
-@media (min-width: 1200px) {
-  #gallery > div #gallery-top h1 {
-    display: block;
-    font-size: 3.4375rem;
-  }
-}
-#gallery > div #gallery-bottom article p {
-  font-weight: 700;
-  font-size: 0.9375rem;
-  line-height: 18px;
-}
-#gallery > div #gallery-picture {
-  background: url(img/gallery/gallery-1.png);
-  background-size: contain;
-  background-position: left;
-  border-radius: 30px;
-}

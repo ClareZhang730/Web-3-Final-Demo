@@ -3,46 +3,21 @@
 ============= */
 
 #gallery{
-    display: grid;
-    grid-template-columns: 16px auto 16px;
-    grid-template-areas: ". gallery .";
+        display: grid;
+        grid-template-columns: 16px auto 16px;
+        grid-template-areas: ". gallery .";
 
-    >div{
-        grid-area: gallery;
-        
-        #gallery-top{
-            h1{
-                font-family: 'Roboto', sans-serif;
-                color: var(--black);
-                font-size: rem-calc(40);
-                text-align: center; 
+        >div{
+            grid-area: gallery;
 
-                @include xl{
-                    display: block;
-                    font-size: rem-calc(55);
+            #gallery-top{
+                h1{
+                   font-family: 'Roboto', sans-serif;
+                   color: var(--black);
+                   font-size: rem-calc(40);
+                   text-align: center;
                 }
-
-
             }
         }
-
-      #gallery-bottom{
-            article{
-                p{
-                    font-weight: 700;
-                    font-size: rem-calc(15);
-                    line-height: 18px;                      
-                }
-            }
-      }
-
-      #gallery-picture{
-        background: url(img/gallery/gallery-1.png);
-        background-size: contain;
-        background-position: left;
-        border-radius: 30px;
-                }
-            }
-      }
-    
+}
     
