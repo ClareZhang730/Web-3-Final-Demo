@@ -580,3 +580,6 @@ a {
   line-height: 23px;
   text-align: justify;
 }
+#gallery > div #gallery-top h1 #button {
+  text-align: center;
+}
