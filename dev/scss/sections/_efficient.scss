@@ -3,50 +3,49 @@
 ============= */
 
 #efficient{
-        display: grid;
-        grid-template-columns: 16px auto 16px;
-        grid-template-areas: ". efficient .";
+    display: grid;
+    grid-template-columns: 16px auto 16px;
+    grid-template-areas: ". efficient .";
 
     >div{
-        grid-area: efficient; 
+        grid-area: efficient;
 
         #efficient-top{
             h1{
-                font-family: 'Roboto', sans-serif;
+                font-family:'Roboto', sans-serif;
                 color: var(--black);
                 font-size: rem-calc(40);
                 text-align: center;
-                
-              
+
                 @include xl{
-                    display: block;
+                    display:block;
                     font-size: rem-calc(55);
                 }
+                span{
+                    font-size:rem-calc(55);
 
-                span{ 
-                    font-size: rem-calc(40);
-    
                     @include xl{
-                        display: block;
-                        font-size: rem-calc(55);
+                        display:block;
+                        font-size:rem-calc(55);
                     }
-                
-        #efficient-bottom{
-            article{
-                p{
-                    font-weight: 700;
-                    font-size: rem-calc(15);
-                    line-height: 23px;
-
                 }
-            }
-        }
-        
-                
-    
+            #efficient-bottom{
+                article{
+                    p{
+                        font-weight: 700;
+                        font-size: rem-calc(15);
+                        line-height: 23px; 
+                    }
                 }
+            }    
 
             }
         }
     }
 }
+
+   
+                
+              
+                
+       
