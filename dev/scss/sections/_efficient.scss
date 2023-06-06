@@ -10,35 +10,48 @@
     >div{
         grid-area: efficient; 
 
-        h1{
-            font-family: 'Roboto', sans-serif;
-            color: var(--black);
-            font-size: rem-calc(40);
-            text-align: center;
-            
-            @include md{
+        #efficient-top{
+            h1{
+                font-family: 'Roboto', sans-serif;
+                color: var(--black);
                 font-size: rem-calc(40);
-
-            }
-
-            @include xl{
-                display: block;
-                font-size: rem-calc(55);
-            }
-
-
-            span{ 
-                font-size: rem-calc(40);
-
+                text-align: center;
+                
                 @include md{
-                    display: block;
                     font-size: rem-calc(40);
+    
+                }
 
                 @include xl{
                     display: block;
                     font-size: rem-calc(55);
                 }
 
+                span{ 
+                    font-size: rem-calc(40);
+    
+                    @include md{
+                        display: block;
+                        font-size: rem-calc(40);
+    
+                    @include xl{
+                        display: block;
+                        font-size: rem-calc(55);
+                    }
+                
+                  }
+       
+        #efficient-bottom{
+            article{
+                p{
+                    font-weight: 700;
+                    font-size: rem-calc(35);
+                    line-height: 41px;
+
+                }
+            }
+        }
+        
                 
     
                 }
