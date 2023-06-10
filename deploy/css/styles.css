@@ -550,57 +550,8 @@ a {
 }
 
 /* =============
-    Funcationality
+    Functionality
 ============= */
-#functionality {
-  display: grid;
-  grid-template-columns: 16px auto 16px;
-  grid-template-areas: ". funcationality .";
-}
-#functionality > div {
-  grid-area: functionality-header;
-}
-#functionality > div #functionality-header h1 {
-  font-family: "Roboto", sans-serif;
-  color: var(--black);
-  font-size: 2.5rem;
-  text-align: center;
-}
-@media (min-width: 1200px) {
-  #functionality > div #functionality-header h1 {
-    font-size: 3.4375rem;
-  }
-}
-#functionality > div #defrost-top h3 {
-  font-family: "Roboto", sans-serif;
-  color: var(--black);
-  font-size: 1.5625rem;
-  text-align: center;
-}
-@media (min-width: 1200px) {
-  #functionality > div #defrost-top h3 {
-    font-size: 1.875rem;
-  }
-}
-#functionality > div #frost {
-  display: grid;
-  grid-template-columns: 141px auto 213.8px;
-  grid-template-areas: ". frost .";
-  padding: 15%;
-}
-#functionality > div #frost > div {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-#functionality > div #defrost-bottom article p {
-  font-weight: 400;
-  font-size: 0.9375rem;
-  line-height: 18px;
-  text-align: center;
-}
-
 /* =============
     Gallery
 ============= */
