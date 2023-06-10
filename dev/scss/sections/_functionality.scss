@@ -2,3 +2,57 @@
     Funcationality
 ============= */
 
+#functionality{
+    display: grid;
+    grid-template-columns: 16px auto 16px;
+    grid-template-areas: ". funcationality ." ;
+
+    >div{
+        grid-area: functionality-header;
+
+        #functionality-header{
+                h1{
+                    font-family: 'Roboto', sans-serif;
+                    color: var(--black);
+                    font-size: rem-calc(40);
+                    text-align: center;  
+
+                    
+                    @include xl{
+                       display: block; 
+                       font-size: rem-calc(55);
+                    }
+                }
+        }
+
+        #defrost-top{
+            h3{
+                font-family: 'Roboto', sans-serif;
+                color: var(--black);
+                font-size: rem-calc(25);
+                text-align: center; 
+
+                @include xl{
+                    display: block;
+                    font-size: rem-calc(30);
+                }
+            }
+        }
+        
+        #frost{
+           display: grid;
+           grid-template-columns: 141px auto 213.8px;
+           grid-template-areas: ". frost .";
+           padding: 15%;
+    
+           >div{
+              display: flex;
+              align-items: center;
+              justify-content: center;
+           }
+        }
+    }
+
+        
+}
+

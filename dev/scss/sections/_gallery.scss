@@ -28,7 +28,12 @@
                         font-weight: 700;
                         font-size: rem-calc(15);
                         line-height: 23px;
-                        text-align: justify;  
+                        text-align: justify;
+                        
+                        @include xl{
+                            display: block;
+                            font-size: rem-calc(30);
+                        }
                     }
                 }
             }
