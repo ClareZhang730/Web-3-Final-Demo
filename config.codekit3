@@ -619,14 +619,6 @@
       "oAP" : "\/dev\/content\/reviews.html",
       "oF" : 0
     },
-    "\/dev\/content\/skills.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/skills.html",
-      "oF" : 0
-    },
     "\/dev\/content\/skills.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -970,6 +962,14 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
+    },
+    "\/dev\/thankyou.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/thankyou.html",
+      "oF" : 2
     }
   },
   "hooks" : [
