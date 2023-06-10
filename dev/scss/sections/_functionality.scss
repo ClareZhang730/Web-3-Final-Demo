@@ -50,10 +50,13 @@
         grid-area: frost;
 
         #frost-image{
+            background-image: ul("../img/icons/frost.png");
             display: flex;
             align-items: center;
             justify-content: center;
         }
     }
 }
+
+
 

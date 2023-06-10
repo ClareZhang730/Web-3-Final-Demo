@@ -439,6 +439,7 @@ a {
   background-size: cover;
   background-position: center;
   height: 40vh;
+  padding: 20%;
 }
 
 /* =============
@@ -594,6 +595,7 @@ a {
   grid-area: frost;
 }
 #frost > div #frost-image {
+  background-image: ul("../img/icons/frost.png");
   display: flex;
   align-items: center;
   justify-content: center;

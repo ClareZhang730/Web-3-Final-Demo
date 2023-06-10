@@ -37,6 +37,58 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/deploy\/img\/footer\/facebook.png" : {
+      "ft" : 32768,
+      "iS" : 2137,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/footer\/facebook.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/deploy\/img\/footer\/instagram.png" : {
+      "ft" : 32768,
+      "iS" : 5313,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/footer\/instagram.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/deploy\/img\/footer\/tiktok.png" : {
+      "ft" : 32768,
+      "iS" : 3212,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/footer\/tiktok.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/deploy\/img\/footer\/youtube.png" : {
+      "ft" : 32768,
+      "iS" : 404,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/footer\/youtube.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/deploy\/img\/gallery\/dolce-1.png" : {
       "ft" : 32768,
       "iS" : 640286,
@@ -388,19 +440,6 @@
       "q" : 90,
       "rq" : 75
     },
-    "\/deploy\/img\/icons\/facebook.png" : {
-      "ft" : 32768,
-      "iS" : 2137,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/icons\/facebook.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
     "\/deploy\/img\/icons\/frost.png" : {
       "ft" : 32768,
       "iS" : 4129,
@@ -453,19 +492,6 @@
       "q" : 90,
       "rq" : 75
     },
-    "\/deploy\/img\/icons\/instagram.png" : {
-      "ft" : 32768,
-      "iS" : 5313,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/icons\/instagram.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
     "\/deploy\/img\/icons\/line.png" : {
       "ft" : 32768,
       "iS" : 212,
@@ -492,37 +518,11 @@
       "q" : 90,
       "rq" : 75
     },
-    "\/deploy\/img\/icons\/tiktok.png" : {
-      "ft" : 32768,
-      "iS" : 3212,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/icons\/tiktok.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
     "\/deploy\/img\/icons\/whitecircle.png" : {
       "ft" : 32768,
       "iS" : 610,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/icons\/whitecircle.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/deploy\/img\/icons\/youtube.png" : {
-      "ft" : 32768,
-      "iS" : 404,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/icons\/youtube.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
