@@ -23,24 +23,36 @@
                 }
             }
         }
+
+        #defrost-top{
+            h3{
+                font-family:'Roboto', sans-serif;
+                color: var(--black);
+                font-size: rem-calc(25);
+                text-align: center;  
+                
+                @include xl{
+                    font-size:rem-calc(30);
+                }
+            }
+        }
+
     }
 }
 
-#functionality{
-    display:grid;
+#frost{
+    display: grid;
     grid-template-columns: 16px auto 16px;
-    grid-template-areas: ". functionality .";
-
+    grid-template-areas: ". frost .";
+    padding: 15%;
     >div{
-        grid-area: functionality;
+        grid-area: frost;
 
-        #defrost-top{
-            h1{
-                font-family:'Roboto', sans-serif;
-                color: var(--black);
-                font-size: rem-calc(35);
-                text-align: center;   
-            }
+        #frost-image{
+            display: flex;
+            align-items: center;
+            justify-content: center;
         }
     }
 }
+
