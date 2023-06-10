@@ -428,7 +428,7 @@ a {
   font-weight: 700;
   font-size: 0.9375rem;
   line-height: 23px;
-  text-align: justify;
+  text-align: center;
 }
 
 /* =============
@@ -438,7 +438,7 @@ a {
   background-image: url("../img/hero/hero.png");
   background-size: cover;
   background-position: center;
-  height: 35vh;
+  height: 40vh;
 }
 
 /* =============
@@ -568,7 +568,6 @@ a {
 }
 @media (min-width: 1200px) {
   #functionality > div #functionality-header h1 {
-    display: block;
     font-size: 3.4375rem;
   }
 }
@@ -580,7 +579,6 @@ a {
 }
 @media (min-width: 1200px) {
   #functionality > div #defrost-top h3 {
-    display: block;
     font-size: 1.875rem;
   }
 }
@@ -600,7 +598,7 @@ a {
   font-weight: 400;
   font-size: 0.9375rem;
   line-height: 18px;
-  text-align: justify;
+  text-align: center;
 }
 
 /* =============
@@ -630,7 +628,7 @@ a {
   font-weight: 700;
   font-size: 0.9375rem;
   line-height: 23px;
-  text-align: justify;
+  text-align: center;
 }
 @media (min-width: 1200px) {
   #gallery > div #gallery-top h1 #gallery-bottom article p {

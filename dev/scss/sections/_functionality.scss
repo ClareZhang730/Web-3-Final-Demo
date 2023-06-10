@@ -19,7 +19,6 @@
 
                     
                     @include xl{
-                       display: block; 
                        font-size: rem-calc(55);
                     }
                 }
@@ -33,7 +32,6 @@
                 text-align: center; 
 
                 @include xl{
-                    display: block;
                     font-size: rem-calc(30);
                 }
             }
@@ -59,10 +57,12 @@
                     font-weight: 400;
                     font-size: rem-calc(15);
                     line-height: 18px;
-                    text-align: justify; 
+                    text-align: center;
                 }
             }
         }
+
+        
         
         
     }
