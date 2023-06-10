@@ -592,8 +592,15 @@ a {
 }
 #functionality > div #frost > div {
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+#functionality > div #defrost-bottom article p {
+  font-weight: 400;
+  font-size: 0.9375rem;
+  line-height: 18px;
+  text-align: justify;
 }
 
 /* =============
