@@ -16,6 +16,30 @@
                 color: var(--black);
                 font-size: rem-calc(40);
                 text-align: center;  
+
+                @include xl{
+                    display:block;
+                    font-size: rem-calc(55);
+                }
+            }
+        }
+    }
+}
+
+#functionality{
+    display:grid;
+    grid-template-columns: 16px auto 16px;
+    grid-template-areas: ". functionality .";
+
+    >div{
+        grid-area: functionality;
+
+        #defrost-top{
+            h1{
+                font-family:'Roboto', sans-serif;
+                color: var(--black);
+                font-size: rem-calc(35);
+                text-align: center;   
             }
         }
     }

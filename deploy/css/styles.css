@@ -566,6 +566,27 @@ a {
   font-size: 2.5rem;
   text-align: center;
 }
+@media (min-width: 1200px) {
+  #functionality > div #functionality-header h1 {
+    display: block;
+    font-size: 3.4375rem;
+  }
+}
+
+#functionality {
+  display: grid;
+  grid-template-columns: 16px auto 16px;
+  grid-template-areas: ". functionality .";
+}
+#functionality > div {
+  grid-area: functionality;
+}
+#functionality > div #defrost-top h1 {
+  font-family: "Roboto", sans-serif;
+  color: var(--black);
+  font-size: 2.1875rem;
+  text-align: center;
+}
 
 /* =============
     Gallery
